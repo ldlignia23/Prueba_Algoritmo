@@ -1,1 +1,1 @@
-# Prueba_LaCompetenciaSA
+# Prueba_Algoritmo_LaCompetenciaSA
